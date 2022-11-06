@@ -6,3 +6,8 @@ Some description!
 
 Watch tutorial on YouTube.
 Next step
+
+# Local Development
+
+1. Open index.html in your browser
+2. test second changes
